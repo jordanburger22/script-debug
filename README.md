@@ -1,5 +1,5 @@
 <aside>
-💡 The goal of this project is to provide you with extensive practice in debugging JavaScript code. By working through this project, you'll achieve the following:
+The goal of this project is to provide you with extensive practice in debugging JavaScript code. By working through this project, you'll achieve the following:
 
 - **Enhance Debugging Skills**: Improve your ability to identify and fix errors in JavaScript code, including logical errors, syntax errors, and runtime errors.
 - **Understand Common Mistakes**: Gain insights into common coding mistakes and learn strategies to avoid them in the future.

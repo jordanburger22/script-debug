@@ -37,7 +37,7 @@ In this project, you will debug a set of JavaScript functions designed to proces
     - Clone the project repository from GitHub:
         
         ```bash
-        git clone <https://github.com/jordanburger22/script-debug.git>
+        git clone https://github.com/jordanburger22/script-debug.git
         
         ```
         
